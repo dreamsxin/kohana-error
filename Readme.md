@@ -1,5 +1,9 @@
 # Errors
 
+#Author
+- nexeck
+- <https://github.com/nexeck
+
 *Error Handling module for Kohana 3.2*
 
 - **Module Version:** 0.1.0
